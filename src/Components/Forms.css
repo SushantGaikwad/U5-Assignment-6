@@ -1,0 +1,11 @@
+span{
+    display: inline-block;
+    width: 120px;
+}
+.emp-div{
+    border: 1px solid black;
+    width: 330px;
+    margin-left: 500px;
+    padding: 10px;
+    margin-top: 10px;
+}

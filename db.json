@@ -1,0 +1,49 @@
+{
+  "employee": [
+    {
+      "name": "Sushant Subhash Gaikwad",
+      "age": "25",
+      "address": "Kodoli",
+      "department": "IT",
+      "salary": "233223233",
+      "isMarried": true,
+      "id": 1
+    },
+    {
+      "name": "Swapnil Subhash Gaikwad",
+      "age": "22",
+      "address": "Kodoli",
+      "department": "Finance",
+      "salary": "233223333",
+      "isMarried": false,
+      "id": 2
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "department": "",
+      "salary": "",
+      "isMarried": false,
+      "id": 3
+    },
+    {
+      "name": "Sushant Subhash Gaikwad",
+      "age": "25",
+      "address": "Kodoli",
+      "department": "IT",
+      "salary": "2324332234",
+      "isMarried": true,
+      "id": 4
+    },
+    {
+      "name": "Saurabhj",
+      "age": "21",
+      "address": "Kolhapur",
+      "department": "Account",
+      "salary": "13465200",
+      "isMarried": false,
+      "id": 5
+    }
+  ]
+}
